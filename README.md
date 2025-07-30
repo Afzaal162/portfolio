@@ -2,9 +2,8 @@
 👋 Welcome to my portfolio!
 This is a modern, fully responsive personal portfolio website built using HTML, CSS, and JavaScript (without any frameworks). It showcases my skills, projects, background, and ways to get in touch with me.
 
-🔗 Live Demo
-🌐 Visit Portfolio Website[   (Replace with your GitHub Pages or Netlify link)](https://afzaal162.github.io/portfolio/")
-
+🔗[ Live Demo](https://afzaal162.github.io/portfolio/")
+🌐 Visit Portfolio Website
 📌 Features
 💼 Clean and minimal UI with professional layout
 
